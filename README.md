@@ -1,0 +1,1 @@
+Frontend: Run with npm install && npm run dev. Env var NEXT_PUBLIC_API_URL should point to backend.

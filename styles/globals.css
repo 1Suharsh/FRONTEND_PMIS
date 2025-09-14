@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap');
+@tailwind base; @tailwind components; @tailwind utilities;
+:root{--primary-1:#4f46e5;--primary-2:#7c3aed;--accent:#ec4899;}
+body{@apply bg-gradient-to-br from-gray-50 via-purple-50 to-indigo-100 text-gray-900;font-family:'Inter',system-ui;}
+.navbar{background:linear-gradient(90deg,var(--primary-1),var(--primary-2),var(--accent));color:white;}
+.btn-gradient{background:linear-gradient(90deg,var(--primary-1),var(--primary-2));color:white;}
+.card{background:rgba(255,255,255,0.85);backdrop-filter:blur(8px);border-radius:12px;box-shadow:0 8px 24px rgba(15,23,42,0.08);}
