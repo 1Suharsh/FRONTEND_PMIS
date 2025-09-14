@@ -1,0 +1,38 @@
+[
+  {
+    "id": "m1",
+    "title": "Data Science Intern",
+    "company": "Gov Analytics",
+    "location": "New Delhi",
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "Data Analysis"
+    ],
+    "description": "Work on real-time government analytics projects using Python and ML."
+  },
+  {
+    "id": "m2",
+    "title": "Web Development Intern",
+    "company": "Digital India Solutions",
+    "location": "Bengaluru",
+    "skills": [
+      "HTML",
+      "CSS",
+      "React"
+    ],
+    "description": "Develop citizen-facing web portals."
+  },
+  {
+    "id": "m3",
+    "title": "AI Research Intern",
+    "company": "National AI Lab",
+    "location": "Hyderabad",
+    "skills": [
+      "AI",
+      "NLP",
+      "Deep Learning"
+    ],
+    "description": "Assist in NLP-based solutions for Indian languages."
+  }
+]
